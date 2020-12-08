@@ -38,6 +38,7 @@ body {
     text-align: center;
     color: rgba(173, 173, 119, 0.7);
     font-size: 7rem;
+    font-family: 'Roboto', sans-serif;
     position: absolute;
     transform: rotate(var(--rotation));
 }
